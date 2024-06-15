@@ -1,0 +1,22 @@
+Technology used: 
+Pygame
+PyCharm IDE
+Kenney's Sports Pack
+
+External Sources: 
+Kenney. (2017). Sports Pack. Retrieved from https://www.kenney.nl/assets/sports-pack
+
+Process:
+
+Things Learned: 
+I got stuck in the process of trying to add the enemy player to the field and applying the logic of chasing player/players and if u don't plan
+Where did you get stuck?
+ the collision part made me waste so much time 
+What would you like to improve?
+i would like to improve on 
+How would you do things differently next time?
+maybe keep my project ideal planning smaller
+How far did you stray from the game design document?
+maybe like 75% percent due to the set back with the code having issues on top of issues for the simplest things.
+How did you stay on track?
+I would say 75% but when my program kept on crashing so i had to turn to pycharm
